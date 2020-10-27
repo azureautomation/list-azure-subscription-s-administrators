@@ -1,0 +1,20 @@
+{
+    "Author": "s_lapointe",
+    "ContentSize": 835,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/list-azure-subscription's-administrators/master/Get-AzSubscriptionAdministrators.ps1",
+    "DownloadCount": 652,
+    "Id": "List-Azure-subscriptions-6abf2f10",
+    "IsFederated": false,
+    "IsWorkflow": false,
+    "Popularity": 460,
+    "RaterCount": 0,
+    "Rating": 0.0,
+    "ReleaseDate": "2019-3-15T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "PowerShell",
+    "Summary": "You'll find in this function an easy way to extract the list of administrators level accounts assigned on your Azure subscriptions within an authenticated PowerShell Azure session. It will look for Owner and everything with Administrator in the role names.",
+    "Title": "List Azure subscription's administrators",
+    "UpdatedDate": "2019-3-15T00:00:00",
+    "Url": "https://github.com/azureautomation/list-azure-subscription's-administrators",
+    "UserTags": "Microsoft Azure, Permissions, RBAC"
+}
